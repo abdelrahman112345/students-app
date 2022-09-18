@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Abdelrahman",
+    "degree": [20, 30, 40],
+    "total": 90,
+    "comment": "good"
+  },
+  {
+    "id": 2,
+    "name": "Ahmed",
+    "degree": [30, 30, 40],
+    "total": 100,
+    "comment": "good"
+  },
+  {
+    "id": 3,
+    "name": "Osama",
+    "degree": [30, 40, 50],
+    "total": 120,
+    "comment": "very good"
+  },
+  {
+    "id": 4,
+    "name": "Fayez",
+    "degree": [30, 40, 50],
+    "total": 120,
+    "comment": "very good"
+  }
+]
